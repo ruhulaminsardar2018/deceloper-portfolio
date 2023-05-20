@@ -1,1 +1,1 @@
-# deceloper-portfolio
+# developer-portfolio
